@@ -53,6 +53,3 @@ bool Stack::isEmpty()
 {
     return top < 0;
 }
-
-// Main function to test the stack
-int main
